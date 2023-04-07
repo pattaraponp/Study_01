@@ -3,9 +3,6 @@ package com.example.study_01
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.Parcel
-import android.os.Parcelable
-import android.util.Log.d
 import android.view.View.INVISIBLE
 import android.view.View.VISIBLE
 import android.widget.Button
