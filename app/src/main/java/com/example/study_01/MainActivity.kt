@@ -22,7 +22,7 @@ class MainActivity() : AppCompatActivity() {
         val t1 = findViewById<TextView>(R.id.text01)
         val bt = findViewById<Button>(R.id.button)
         var message = ""
-        t1.text = "Hey!"
+        t1.text = "Hey!!"
 
         bt.setOnClickListener(){
             val et1 = findViewById<EditText>(R.id.edittext01)
